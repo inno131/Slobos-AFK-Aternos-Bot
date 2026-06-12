@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Booster06.aternos.me",
+    "ip": "cutlassfish.aternos.host",
     "port": 29209,
     "version": "",
     "try-creative": false
